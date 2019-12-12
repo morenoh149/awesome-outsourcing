@@ -5,7 +5,15 @@
 ## Contents
 
 - [Learning Resources](#learning-resources)
+  - [Blogposts](#blogposts)
+  - [Books](#books)
 - [Providers](#providers)
+  - [Africa](#africa)
+  - [Asia/Pacific](#asia-pacific)
+  - [Australia](#australia)
+  - [Europe](#europe)
+  - [North America](#north-america)
+  - [South America](#south-america)
 
 
 ## Learning Resources
@@ -30,25 +38,33 @@ only with a project manager.
 
 ### Africa
 
-### Asia
+### Asia/Pacific
 
 ### Australia
 
-### Canada
-
 ### Europe
 
-### Latin America
+#### Ukraine
 
-- [JAYA Company](https://www.jayacompany.com) - TECHNOLOGY FOR QUALITY OF LIFE.
-- [Pixel506](https://pixel506.com/) - We're a UX, marketing, and software company. We create products that boosts sales in the digital space.
-- [NativApps](http://www.nativapps.com/) - We are the organization of happy people, where our clients find the best talent to develop their digital products.
+- [Creditor Group Corp](http://www.creditor.ai/) - Blockchain. Among other things.
 
-### United States of America
+### North America
+#### United States of America
 
-#### New York
+##### New York
 
 - [Harry Moreno](https://harrymoreno.com) - Software Engineer turned Project manager. Experienced translating requirements into tasks for engineers.
+
+### South America
+
+#### Colombia
+
+- [JAYA Company](https://www.jayacompany.com) - TECHNOLOGY FOR QUALITY OF LIFE.
+- [NativApps](http://www.nativapps.com/) - We are the organization of happy people, where our clients find the best talent to develop their digital products.
+
+#### Costa Rica
+
+- [Pixel506](https://pixel506.com/) - We're a UX, marketing, and software company. We create products that boosts sales in the digital space.
 
 ## Contribute
 
