@@ -1,4 +1,4 @@
-# Outsourcing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Outsourcing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of outsourcing resources.
 
@@ -12,9 +12,13 @@
 
 Resources for learning how to outsource. When to outsource. What to outsource.
 
+### Blogposts
 - [Outsource things you don't care about](https://cdixon.org/2012/04/22/outsource-things-you-dont-care-about)
 - [Don't outsource your thinking](https://medium.com/@blakeross/don-t-outsource-your-thinking-ad825a9b4653)
 - [I am a developer, yet I outsource the development of my startup](http://aymeric.gaurat.net/2011/i-am-a-developer-yet-i-outsource-the-development-of-my-startup/)
+
+### Books
+- [Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum](https://www.oreilly.com/library/view/practices-for-scaling/9780321685117/)
 
 
 ## Providers
