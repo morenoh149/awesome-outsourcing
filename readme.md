@@ -30,7 +30,7 @@ only with a project manager.
 
 ### United States of America
 
-- [Harry Moreno](https://harrymoreno.com)
+- [Harry Moreno](https://harrymoreno.com) - Software Engineer turned Project manager. Experienced translating requirements into tasks for engineers.
 
 ### Latin America
 
