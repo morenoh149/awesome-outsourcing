@@ -28,9 +28,15 @@ contact them directly for pricing and process. This also includes project
 managers that will perfom the outsourcing for you if you prefer to communicate
 only with a project manager.
 
-### United States of America
+### Africa
 
-- [Harry Moreno](https://harrymoreno.com) - Software Engineer turned Project manager. Experienced translating requirements into tasks for engineers.
+### Asia
+
+### Australia
+
+### Canada
+
+### Europe
 
 ### Latin America
 
@@ -38,6 +44,11 @@ only with a project manager.
 - [Pixel506](https://pixel506.com/) - We're a UX, marketing, and software company. We create products that boosts sales in the digital space.
 - [NativApps](http://www.nativapps.com/) - We are the organization of happy people, where our clients find the best talent to develop their digital products.
 
+### United States of America
+
+#### New York
+
+- [Harry Moreno](https://harrymoreno.com) - Software Engineer turned Project manager. Experienced translating requirements into tasks for engineers.
 
 ## Contribute
 
