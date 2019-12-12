@@ -5,7 +5,7 @@
 ## Contents
 
 - [Learning Resources](#learning-resources)
-- [Another Section](#another-section)
+- [Providers](#providers)
 
 
 ## Learning Resources
@@ -28,10 +28,11 @@ only with a project manager.
 
 - [Harry Moreno](https://harrymoreno.com)
 
-### South Central Latin America
+### Latin America
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [JAYA Company](https://www.jayacompany.com) - TECHNOLOGY FOR QUALITY OF LIFE.
+- [Pixel506](https://pixel506.com/) - We're a UX, marketing, and software company. We create products that boosts sales in the digital space.
+- [NativApps](http://www.nativapps.com/) - We are the organization of happy people, where our clients find the best talent to develop their digital products.
 
 
 ## Contribute
