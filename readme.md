@@ -57,6 +57,10 @@ only with a project manager.
 
 ### South America
 
+#### Brazil
+
+- [Nextly](https://nextly.team) - World-class software engineering for world-class projects. Past works include tech solutions for Fortune 500s, the IOC, & the UN.
+
 #### Colombia
 
 - [JAYA Company](https://www.jayacompany.com) - TECHNOLOGY FOR QUALITY OF LIFE.
