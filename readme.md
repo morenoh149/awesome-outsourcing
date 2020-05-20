@@ -47,6 +47,7 @@ only with a project manager.
 #### Ukraine
 
 - [Creditor Group Corp](http://www.creditor.ai/) - Blockchain. Among other things.
+- [Movadex](https://www.movadex.com) - Design and software development done right. We make your ideas succeed by upgrading your digital presence.
 
 ### North America
 #### United States of America
