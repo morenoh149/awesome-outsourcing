@@ -44,6 +44,14 @@ only with a project manager.
 
 ### Europe
 
+#### United Kingdom
+
+- [PixelCabin](https://pixelcabin.io/) - Shopify e-commerce specialists.
+
+#### Poland
+
+- [Bpol](https://bpol.net/) - Staff Augmentation, Progressive Web Apps and E-commerce.
+
 #### Ukraine
 
 - [Creditor Group Corp](http://www.creditor.ai/) - Blockchain. Among other things.
@@ -61,6 +69,7 @@ only with a project manager.
 #### Argentina
 
 - [devias](https://devias.com.ar/EN/) - We develop Software. Our technological offerings: Ruby / Ruby on Rails / Android Studio /HMTL+CSS+JavaScript/ Bootstrap/ WordPress /Delphi / ACUCOBOL/MySQL/SQL
+- [Valtech (Argentina)](https://www.valtech.com/es-ar/about/valtech-argentina/) - Elite outsourcing firm. Argentina division.
 
 #### Brazil
 
