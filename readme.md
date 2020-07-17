@@ -9,7 +9,7 @@
   - [Books](#books)
 - [Providers](#providers)
   - [Africa](#africa)
-  - [Asia/Pacific](#asia-pacific)
+  - [Asia Pacific](#asia-pacific)
   - [Australia](#australia)
   - [Europe](#europe)
   - [North America](#north-america)
@@ -38,7 +38,7 @@ only with a project manager.
 
 ### Africa
 
-### Asia/Pacific
+### Asia Pacific
 
 ### Australia
 
@@ -68,7 +68,7 @@ only with a project manager.
 
 #### Argentina
 
-- [devias](https://devias.com.ar/EN/) - We develop Software. Our technological offerings: Ruby / Ruby on Rails / Android Studio /HMTL+CSS+JavaScript/ Bootstrap/ WordPress /Delphi / ACUCOBOL/MySQL/SQL
+- [devias](https://devias.com.ar/EN/) - We develop Software. Our technological offerings: Ruby / Ruby on Rails / Android Studio /HMTL+CSS+JavaScript/ Bootstrap/ WordPress /Delphi / ACUCOBOL/MySQL/SQL.
 - [Valtech (Argentina)](https://www.valtech.com/es-ar/about/valtech-argentina/) - Elite outsourcing firm. Argentina division.
 
 #### Brazil
