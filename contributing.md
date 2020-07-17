@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- The entry should link to a public web address.
+- The entry should describe in 1 sentence what makes this provider special.
 
 Thank you for your suggestions!
 
