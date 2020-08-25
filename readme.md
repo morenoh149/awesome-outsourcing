@@ -40,6 +40,10 @@ only with a project manager.
 
 ### Asia Pacific
 
+#### India
+
+- [mindinventory](https://www.mindinventory.com) - Design and mobile dev studio
+
 ### Australia
 
 ### Europe
