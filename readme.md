@@ -33,7 +33,7 @@ Resources for learning how to outsource. When to outsource. What to outsource.
 
 List of companies or individuals that will accept outsourced work. Please
 contact them directly for pricing and process. This also includes project
-managers that will perfom the outsourcing for you if you prefer to communicate
+managers that will perform the outsourcing for you if you prefer to communicate
 only with a project manager.
 
 ### Africa
@@ -43,6 +43,10 @@ only with a project manager.
 #### India
 
 - [mindinventory](https://www.mindinventory.com) - Design and mobile dev studio
+
+#### Hong Kong
+
+- [Ruppell Limited](https://ruppell.io) - Offers web and mobile application development services.
 
 ### Australia
 
