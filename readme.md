@@ -48,6 +48,10 @@ only with a project manager.
 
 - [Ruppell Limited](https://ruppell.io) - Offers web and mobile application development services.
 
+#### Pakistan
+
+- [S.T.A.R.S Pvt Ltd](https://thestarsco.com/) - Software development and artificial intelligence services from Lahore.
+
 ### Australia
 
 ### Europe
